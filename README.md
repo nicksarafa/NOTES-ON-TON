@@ -1,3 +1,3 @@
-## The (Telegram) Open Protocokl
+## The (Telegram) Open Protocol
 
-[](https://github.com/nsarafa/NOTES-ON-TON/white-paper.pdf)
+[White Paper (PDF)](https://github.com/nsarafa/NOTES-ON-TON/TON-WHITE-PAPER.pdf)
